@@ -1,5 +1,4 @@
 /* Add your JavaScript to this file */
-/* Add your JavaScript to this file */
 window.addEventListener('load', function(){
     var submit = document.querySelector(".newsletter button");
     var message = document.querySelector(".message");
